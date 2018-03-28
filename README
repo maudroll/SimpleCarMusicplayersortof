@@ -1,0 +1,16 @@
+Lets you search via voice for your favorite song on Youtube! 
+
+However there are countless issues to fix or even things that you can add:
+
+Short list of further improvements:
+
+  1. Since its gonna be used in a car, weather information could be useful
+  2. Youtube script uses the first video that is on that list; Im not sure if selecting only songs/music videos is an option
+  3. Keep in mind, it uses Google Speech Recognition -> limited to 50 words a day, however I have never encountered such an limit
+  
+  
+  THE MOST IMPORTANT THING: I have tried to translate it into Java to run it on Android -> smaller bugs -> I will upload it soon
+              If anybody has time to do it, please do it:
+              Please tell me about
+  
+  
